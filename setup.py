@@ -7,8 +7,10 @@ setup(
     author="Kevin Lai",
     packages=find_packages(),
     install_requires=[
-        'numpy',
-        'scipy',
-        'matplotlib',
+        "scikit-learn",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scipy",
     ],
 )
